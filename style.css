@@ -10,8 +10,9 @@ a {
   text-decoration: none !important;
 }
 
-#menubutton:hover{
+#menubutton i:hover{
   opacity: 0.5;
+  transition-duration: 2s;
 }
 
 #sidebar {
