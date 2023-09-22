@@ -58,7 +58,7 @@ a {
 }
 
 #projects {
-  background-color: #edf9f9;
+  background-color: #222426;
   padding: 80px 0;
 }
 #projects h2 {
@@ -295,4 +295,20 @@ a {
   100% {
     opacity: 1;
   }
+}
+
+.panel-footer a {
+  color: #546a7b;
+}
+
+.panel-footer h3{
+  font-weight: bold;
+}
+
+.panel-footer{
+  background-color: #fff;
+}
+
+.panel-body:hover{
+  opacity: 0.5;
 }
