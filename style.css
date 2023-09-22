@@ -10,6 +10,10 @@ a {
   text-decoration: none !important;
 }
 
+#menubutton:hover{
+  opacity: 0.5;
+}
+
 #sidebar {
   animation-duration: 0.2s;
   background-color: rgba(84, 106, 123, 0.95);
@@ -235,6 +239,7 @@ a {
   bottom: 0;
   min-height: 30%;
   position: relative;
+  background-color: #fff;
 }
 .footer .container {
   left: 50%;
