@@ -443,7 +443,14 @@ a {
 }
 
 .buttonGame {
-
+  background-color: #295dec;
+  font-size: 10px;
+  display: inline-block;
+  border-radius: 6px;
+  color: #fff;
+  text-align: center;
+  border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 
 }
 
@@ -454,6 +461,7 @@ a {
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 }
 
 .buttonC {
@@ -474,6 +482,7 @@ a {
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 }
 
 .buttonPy{
@@ -483,6 +492,7 @@ a {
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 }
 
 .buttonCrypto {
@@ -492,6 +502,7 @@ a {
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 }
 
 
