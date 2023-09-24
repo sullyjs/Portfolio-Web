@@ -308,9 +308,9 @@ a {
   }
 }
 
-.panel-footer a {
+/*.panel-footer a {
   color: #546a7b;
-}
+}*/
 
 .panel-footer h3{
   font-weight: bold;
@@ -464,6 +464,7 @@ a {
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
+  width: 10%;
 }
 
 .buttonWebDev {
