@@ -396,8 +396,8 @@ a {
 }
 .skill-card .skill-card__header .skill-card__icon {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  /*top: 50%;*/
+  left: 50%; 
   transform: translateY(-50%) translateX(-50%);
   display: block;
   width: 128px;
@@ -419,7 +419,7 @@ a {
   font-style: italic;
 }
 .skill-card .skill-card__body .skill-card__knowledge {
-  margin-top: 10px;
+  
   color: #424242;
 }
 .skill-card .skill-card__body .skill-card__knowledge li {
