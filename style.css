@@ -455,13 +455,13 @@ a {
 }
 
 .buttonJS {
-  background-color: #94d3a2;
+  background-color: #d3e910;
   display: inline-block;
   border-radius: 6px;
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
-  width: 20px;
+  width: 25%;
 }
 
 .buttonC {
@@ -476,23 +476,23 @@ a {
 }
 
 .buttonWebDev {
-  background-color: #94d3a2;
+  background-color: #df38d1;
   display: inline-block;
   border-radius: 6px;
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
-  width: 10%;
+  width: 25%;
 }
 
 .buttonPy{
-  background-color: #94d3a2;
+  background-color: #18c9ab;
   display: inline-block;
   border-radius: 6px;
   color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
-  width: 10%;
+  width: 20%;
 }
 
 .buttonCrypto {
