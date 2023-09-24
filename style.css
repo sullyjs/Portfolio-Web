@@ -79,6 +79,17 @@ a {
   position: relative;
   text-align: center;
 }
+#projects h3 {
+  display: block;
+  font-size: 28px;
+  font-weight: 400;
+  margin: 0 !important;
+  margin-after: 0.83em;
+  margin-before: 0.83em;
+  padding-bottom: 70px;
+  position: relative;
+  text-align: center;
+}
 #projects h2after {
   bottom: 30px;
   content: "";
@@ -202,6 +213,10 @@ a {
 
 .light-white-font {
   color: #fdfdff;
+}
+
+.grayish-font {
+  color:#b8babd;
 }
 
 .light-blue-background {
@@ -420,7 +435,6 @@ a {
   display: inline-block;
   font-size: 10px;
   border-radius: 6px;
-  color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
   width: 27%;
@@ -465,7 +479,6 @@ a {
   color: black;
   display: inline-block;
   border-radius: 6px;
-  color: #fff;
   text-align: center;
   border: 1px solid rgba(27, 31, 35, .15);
   width: 20%;
