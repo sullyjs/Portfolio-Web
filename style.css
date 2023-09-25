@@ -343,7 +343,15 @@ a {
 
 /* 4- skills section */
 
-
+#skills {
+  background-color: #fdfdff;
+  margin: auto;
+  min-height: 70%;
+  padding: 80px 0;
+  display: flex;
+  justify-content: center;
+  
+}
 
 .skill-card {
   /*transform: translateY(-50%) translateX(-50%);*/
@@ -434,15 +442,7 @@ a {
   
 }
 
-#skills {
-  background-color: #fdfdff;
-  margin: auto;
-  min-height: 70%;
-  padding: 80px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 #skills h2 {
   display: block;
