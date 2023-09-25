@@ -460,6 +460,10 @@ a {
   
 }
 
+.skill-card .skill-card__body .skill-card__knowledge ul{
+  text-align: center;
+}
+
 
 
 #skills h2 {
