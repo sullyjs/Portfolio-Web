@@ -353,6 +353,18 @@ a {
   
 }
 
+#Purple {
+  background-color: #4b0082;
+}
+
+#DarkBlue {
+  background-color: #376ca8;
+}
+
+#Yellow {
+  background-color: #e3ee43;
+}
+
 .skill-card {
   /*transform: translateY(-50%) translateX(-50%);*/
   display: inline-block;
@@ -401,7 +413,7 @@ a {
 }
 .skill-card .skill-card__header {
   position: relative;
-  background-color: #eb6c3f;
+  
   height: 170px;
   margin: -20px -20px 20px -20px;
   transition: height 0.5s;
