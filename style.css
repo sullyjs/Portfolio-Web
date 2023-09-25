@@ -380,6 +380,7 @@ a {
   transform: translateX(0);
   transition-timing-function: cubic-bezier(0, 1.5, 1, 1);
   transition-duration: 0.5s;
+  list-style-type: none;
 }
 .skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(1) {
   transition-delay: 0.25s;
