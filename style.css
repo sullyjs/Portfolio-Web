@@ -452,6 +452,7 @@ a {
   text-align: center;
   transition-duration: 0;
   transition-delay: 0.5s;
+  display:inline-block;
   
 }
 
