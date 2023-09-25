@@ -436,12 +436,12 @@ a {
 
 #skills {
   background-color: #fdfdff;
-  
+  margin: auto;
   min-height: 70%;
   padding: 80px 0;
   display: flex;
   justify-content: center;
-  
+  align-items: center;
 }
 
 #skills h2 {
