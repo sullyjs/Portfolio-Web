@@ -434,6 +434,13 @@ a {
   
 }
 
+#skills {
+  background-color: #fdfdff;
+  margin: auto;
+  min-height: 70%;
+  padding: 80px 0;
+}
+
 /* button code
 
 <!-- HTML !-->
