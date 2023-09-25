@@ -436,7 +436,8 @@ a {
   color: #424242;
 }
 .skill-card .skill-card__body .skill-card__knowledge li {
-  
+  list-style-type: none;
+  text-align: center;
   transition-duration: 0;
   transition-delay: 0.5s;
   
