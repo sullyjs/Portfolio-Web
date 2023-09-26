@@ -354,7 +354,15 @@ a {
 }
 
 #Purple {
-  background-color: #4b0082;
+  background-color: #603dd9
+}
+
+#VSColor {
+  background-color: #2c2c32;
+}
+
+#DockerColor {
+  background-color: #1e63ee;
 }
 
 #DarkBlue {
