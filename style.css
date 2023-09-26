@@ -451,6 +451,11 @@ a {
   
   color: #424242;
 }
+
+.skill-card .skill-card__body .skill-card__knowledge ul{
+  text-align: center;
+}
+
 .skill-card .skill-card__body .skill-card__knowledge li {
   list-style-type: none;
   text-align: center;
