@@ -15,6 +15,10 @@ a {
   transition-duration: 2s;
 }
 
+#menubutton {
+  background-color: #424242;
+}
+
 #sidebar {
   animation-duration: 0.2s;
   background-color: rgba(84, 106, 123, 0.95);
