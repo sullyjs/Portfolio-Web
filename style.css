@@ -10,13 +10,14 @@ a {
   text-decoration: none !important;
 }
 
-#menubutton i:hover{
+#menu-button i:hover{
   opacity: 0.5;
   transition-duration: 2s;
 }
 
-#menubutton {
-  position: fixed;
+#menu-button {
+  cursor: pointer;
+  background-color: #222426;
 }
 
 #sidebar {
