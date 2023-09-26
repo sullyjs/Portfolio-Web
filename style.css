@@ -392,20 +392,25 @@ a {
 .skill-card:hover .skill-card__body {
   height: 170px;
 }
-.skill-card:hover .skill-card__body .skill-card__knowledge li {
+.skill-card:hover .skill-card__body .skill-card__knowledge p {
   transition-timing-function: cubic-bezier(0, 1.5, 1, 1);
   transition-duration: 0.5s;
   list-style-type: none;
 }
+/*
 .skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(1) {
   transition-delay: 0.25s;
 }
 .skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(2) {
   transition-delay: 0.5s;
-}
-.skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(3) {
+  
+}*/
+
+.skill-card:hover .skill-card__body .skill-card__knowledge p {
   transition-delay: 0.75s;
 }
+
+/*
 .skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(4) {
   transition-delay: 1s;
 }
@@ -415,6 +420,8 @@ a {
 .skill-card:hover .skill-card__body .skill-card__knowledge li:nth-child(6) {
   transition-delay: 1.5s;
 }
+*/
+
 .skill-card .skill-card__header {
   position: relative;
   
@@ -456,9 +463,7 @@ a {
   text-align: center;
 }
 
-.skill-card .skill-card__body .skill-card__knowledge li {
-  list-style-type: none;
-  display: inline;
+.skill-card .skill-card__body .skill-card__knowledge p {
   transition-duration: 0;
   transition-delay: 0.5s;
   
