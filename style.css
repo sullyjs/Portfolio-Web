@@ -443,7 +443,7 @@ a {
 .skill-card .skill-card__body {
   height: 40px;
   transition: height 0.5s;
-  overflow: hidden;
+  
 }
 .skill-card .skill-card__body .skill-card__title {
   font-size: 1.4em;
