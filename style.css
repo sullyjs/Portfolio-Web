@@ -458,7 +458,7 @@ a {
 
 .skill-card .skill-card__body .skill-card__knowledge li {
   list-style-type: none;
-  
+  display: inline;
   transition-duration: 0;
   transition-delay: 0.5s;
   
