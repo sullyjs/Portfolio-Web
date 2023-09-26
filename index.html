@@ -21,6 +21,8 @@
 <body>
 <!-- partial:index.partial.html -->
 <div class="container-fluid fill light-white-font">
+
+  <!---
       <div id="menu-button">
         <i class="fa fa-bars fa-3x middle-blue-font"></i>
       </div>
@@ -40,6 +42,48 @@
         </h1>
       </div>
     </div>
+  -->
+
+  <nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" />
+      
+      <!--
+      Some spans to act as a hamburger.
+      
+      They are acting like a real hamburger,
+      not that McDonalds stuff.
+      -->
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <!--
+      Too bad the menu has to be inside of the button
+      but hey, it's pure CSS magic.
+      -->
+      <ul id="menu">
+        <a href="#"><li>Home</li></a>
+        <a href="#"><li>About</li></a>
+        <a href="#"><li>Info</li></a>
+        <a href="#"><li>Contact</li></a>
+        <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+      </ul>
+    </div>
+  </nav>
+  <div id="home" class="container-fluid fill dark-gray-background">
+    <h1 class="center text-center">
+      <p>Hi, my name is <strong class="middle-blue-font">SJ Steward</strong></p>
+      <p>and I'm <span class="element"></span></p>
+      <p>living in <strong class="middle-blue-font">The Netherlands</strong>.</p>
+    </h1>
+  </div>
+
+  </div>
 
 
     <div id="about" class="container-fluid">
