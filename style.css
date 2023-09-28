@@ -286,6 +286,16 @@ a {
   font-size: 0.9em;
   height: 2.4em;
   width: 8.7em;
+  border-radius: 60px;
+
+}
+
+.email a:hover{
+  background-color: white;
+  color: black;
+  letter-spacing: 4px;
+  transition-duration: 2s;
+
 }
 
 .typed-cursor {
