@@ -96,19 +96,7 @@ a {
   text-align: center;
 }
 
-#projects h3 {
-  display: block;
-  font-size: 25px;
-  font-weight: 400;
-  color: white;
-  letter-spacing: 2px;
-  margin: 0 !important;
-  margin-after: 0.83em;
-  margin-before: 0.83em;
-  padding-bottom: 70px;
-  position: relative;
-  text-align: center;
-}
+
 #projects h2after {
   bottom: 30px;
   content: "";
