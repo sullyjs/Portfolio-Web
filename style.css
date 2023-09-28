@@ -290,8 +290,7 @@ a {
 
 }
 
-.email a:hover{
-  background-color: white;
+.email:hover{
   color: black;
   letter-spacing: 4px;
   transition-duration: 2s;
