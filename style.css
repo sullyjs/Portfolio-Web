@@ -350,12 +350,15 @@ a {
 
 .panel-footer{
   background-color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 .panel-footer:hover{
   transition: 0.5s;
   background-color: #222426;
-  color:#00f6ed;
+  color:#ffffff;
+  
 }
 
 .panel-body:hover{
@@ -525,7 +528,7 @@ a {
 .button-28 {
   appearance: none;
   background-color: #222426;
-  border: 2px solid #1A1A1A;
+  border: 2px solid #ffffff;
   border-radius: 15px;
   box-sizing: border-box;
   color: #00f6ed;
